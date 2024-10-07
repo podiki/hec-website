@@ -10,7 +10,7 @@ const {
   container: containerClass = '',
   panel: panelClass = '',
   title: titleClass = '',
-  description: descriptionClass = '',
+  description: descriptionClass = await Astro.slots.render('default'),
   icon: defaultIconClass = 'text-primary',
   action: actionClass = '',
 } = classes;
