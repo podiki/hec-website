@@ -5,8 +5,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Broad and Washington
 
-- Broad and Washington [CDR package pdf](files/Broad_and_wash_cdr.pdf) (Note: large file)
-- [Community Benefits Agreement](files/Broad_and_Washington_Assoc_to_HEC_11-13-20.pdf) for the Broad and Washington development
+- Broad and Washington [CDR package pdf](../files/Broad_and_wash_cdr.pdf) (Note: large file)
+- [Community Benefits Agreement](../files/Broad_and_Washington_Assoc_to_HEC_11-13-20.pdf) for the Broad and Washington development
 
 ## Cultural Resources
 
