@@ -1,6 +1,6 @@
 site:
-  name: Hawthorne Empowerment Coalition
   site: 'https://hecphila.org'
+  name: HEC
   base: '/'
   trailingSlash: false
 
