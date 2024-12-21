@@ -16,7 +16,34 @@ const metadata = {
   <HeroText tagline="Calendar" title="Upcoming Events" />
 
   <!-- Content Widget **************** -->
-
+  <Content
+    items={[
+      {
+        title: '17th: Celebrate Hawthorne Garden',
+        description:
+          'Noon - 3:00 pm at the Hawthorne Garden.  We will have food, drink, and good conversation.  See <u><a href="../garden">Hawthorne Garden news post</a></u> for details.',
+        icon: 'tabler:number-17-small',
+      },
+      {
+        title: '15th: Deadline to apply for a street tree',
+        description:
+          'See the <u><a href="../street-tree">street tree reminder</a></u> for details.',
+        icon: 'tabler:number-15-small',
+      },
+      {
+        title: '14th: November Community Meeting',
+        description:
+          '7:00 pm - 8:00 pm at the Hawthorne Cultural Center (1200 Carpenter St.).  See <u><a href="../nov-meeting-announcement">announcement</a></u> for details.',
+        icon: 'tabler:number-14-small',
+      },
+    ]}
+  >
+  <Fragment slot="content">
+          Coming soon, a full, subscribable calendar with community events...
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">November</h3>
+        
+    </Fragment>
+  </Content>  
   <Content
     items={[
       {
@@ -27,8 +54,9 @@ const metadata = {
       },
     ]}
   >
-    <Fragment slot="content">
+  <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">October</h3>
+        
     </Fragment>
   </Content>
 </Layout>

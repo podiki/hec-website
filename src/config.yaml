@@ -1,6 +1,6 @@
 site:
-  site: 'https://hecphila.org'
   name: HEC
+  site: 'https://hecphila.org'
   base: '/'
   trailingSlash: false
 
