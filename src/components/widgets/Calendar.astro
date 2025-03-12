@@ -1,0 +1,25 @@
+<script>
+    import { Calendar } from '@fullcalendar/core';
+    import dayGridPlugin from '@fullcalendar/daygrid';
+    import googleCalendarPlugin from '@fullcalendar/google-calendar';
+    document.addEventListener('astro:page-load', function() {
+        var calendarEl = document.getElementById('calendar');
+        let calendar = new Calendar(calendarEl, {
+            plugins: [dayGridPlugin, googleCalendarPlugin],
+            googleCalendarApiKey: 'AIzaSyBAl8AZe3QAyjTbkCrUdNHnlQo2jLT7MiI',
+            events: {
+                googleCalendarId: '637dfe346b2ef4fef7ce87e4a679defcc2dd5b569d052b34358144b7060116ed@group.calendar.google.com'
+            },
+            eventClick: function(arg) {
+                // opens events in a popup window
+                window.open(arg.event.url, '_blank', 'width=700,height=600');
+                // prevents current tab from navigating
+                arg.jsEvent.preventDefault();
+            },
+            initialView: 'dayGridMonth'
+        });
+        calendar.render();
+    });
+</script>
+
+<div id='calendar' class="mx-auto max-w-7xl p-4 md:px-8"></div>

@@ -4,7 +4,7 @@ import HeroText from '~/components/widgets/HeroText.astro';
 import ContactUs from '~/components/widgets/Contact.astro';
 import Features2 from '~/components/widgets/Features2.astro';
 import Content from '~/components/widgets/Content.astro';
-
+import Calendar from '~/components/widgets/Calendar.astro';
 const metadata = {
   title: 'Upcoming Events',
 };
@@ -15,6 +15,7 @@ const metadata = {
 
   <HeroText tagline="Calendar" title="Upcoming Events" />
 
+  <Calendar/>
   <!-- Content Widget **************** -->
   <Content
     items={[
