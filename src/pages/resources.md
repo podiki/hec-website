@@ -2,6 +2,8 @@
 title: Resources
 layout: '~/layouts/MarkdownLayout.astro'
 ---
+## Local Resources
+A list of [local independent pharmacies](https://sites.google.com/hecphila.org/hec-pharmacies/home)
 
 ## Broad and Washington
 
@@ -15,6 +17,7 @@ See [this page](../cultural) for a list of cultural resources nearby.
 ## Others
 
 ### Philadelphia Services
+[Housing Resource Guide](https://phdcphila.org/who-we-are/publications/housing-resource-guide/)
 
 [Trash and Recycling](https://www.phila.gov/departments/department-of-sanitation/trash-and-recycling/)
 
