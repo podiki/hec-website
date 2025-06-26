@@ -17,6 +17,8 @@ tags:
 
 **Note: 6pm start time, not 7pm like the previous meeting**
 
+**Presentation slides**: [PowerPoint](../files/HECJuneMeetingRevised.pptx) or [PDF](../files/HECJuneMeetingRevised.pdf)
+
 Please join the HEC board and your neighbors for this month's community meeting. We will discuss the latest happenings in our neighborhood, give updates from our community committees, and discuss what is coming up for this summer.
 
 We are looking for more volunteers! If you would like to help out with anything related to Hawthorne, please get in touch via email at info@hecphila.org or come talk to us on the 26th. In particular, we are looking for people to run our social media accounts, help publicize and organize future events, and help with outreach to get more of the community involved.
