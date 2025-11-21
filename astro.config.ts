@@ -23,6 +23,8 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'static',
+  site: 'https://podiki.github.io',
+  base: '/hec-website',
 
   integrations: [
     tailwind({
