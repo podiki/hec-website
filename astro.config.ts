@@ -23,7 +23,7 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'static',
-  site: 'https://gh.9bladed.com',
+  site: 'https://hecphila.org',
 
   integrations: [
     tailwind({
