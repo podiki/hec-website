@@ -2,6 +2,9 @@
 title: Resources
 layout: '~/layouts/MarkdownLayout.astro'
 ---
+## HEC
+We are currently updating our bylaws! You can find more information and how to get involved on the [bylaws page](./bylaws).
+
 ## Local Resources
 A list of [local independent pharmacies](https://sites.google.com/hecphila.org/hec-pharmacies/home)
 
@@ -29,4 +32,4 @@ See [this page](../cultural) for a list of cultural resources nearby.
 
 [Queen Village](https://www.qvna.org/)
 
-_Last updated_: September 3, 2024
+_Last updated_: February 20, 2026
