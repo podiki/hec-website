@@ -5,6 +5,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## HEC
 We are currently updating our bylaws! You can find more information and how to get involved on the [bylaws page](./bylaws).
 
+We also have a scholarship opportunity for local students, please see the [scholarship page](./scholarship).
+
 ## Local Resources
 A list of [local independent pharmacies](https://sites.google.com/hecphila.org/hec-pharmacies/home)
 

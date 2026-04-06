@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 HEC is currently in the process of revising and updating our bylaws! This page contains information about the process and progress. To get in touch with the Board about the bylaws and this process, please email <a href="mailto:info@hecphila.org">info@hecphila.org</a>.
 
 ## Why Now & Our Objectives 
-- Bylaws outdated – no updates since  2002 
+- Bylaws outdated – no updates since 2002 
 - Restrictive voting provisions have made  it difficult to reflect community input and elect permanent Board members 
 - Numerous confusing and contradictory provisions 
 - Opportunity to modernize bylaws to  create a strong and sustainable HEC 
