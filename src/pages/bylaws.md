@@ -4,7 +4,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 ---
 HEC is currently in the process of revising and updating our bylaws! This page contains information about the process and progress. To get in touch with the Board about the bylaws and this process, please email <a href="mailto:info@hecphila.org">info@hecphila.org</a>.
 
-A recent presentation about key proposed changes can be found at [this link](https://docs.google.com/presentation/d/1OqN175iVP-aOjgl0TeOZi-YXBdERnnybiw9dNY-Baq8/edit?usp=sharing) (or as [a PDF](./files/ModernizingHECBylaws.pdf)).
+A recent presentation about key proposed changes can be found at [this link](https://docs.google.com/presentation/d/1OqN175iVP-aOjgl0TeOZi-YXBdERnnybiw9dNY-Baq8/edit?usp=sharing) (or as [a PDF](../files/ModernizingHECBylaws.pdf)).
 
 ## Why Now & Our Objectives 
 - Bylaws outdated – no updates since 2002 
@@ -44,6 +44,6 @@ Community feedback helps shape clarity, structure, and implementation details of
 Some decisions are governed by legal and structural requirements. While community input is valued, final decisions must comply with the organization’s legal obligations and existing bylaws.
 
 ## Previous bylaws
-You can find the current bylaws [here as a PDF](./files/HECBylaws2002.pdf).
+You can find the current bylaws [here as a PDF](../files/HECBylaws2002.pdf).
 
 _Last updated_: April 30, 2026
