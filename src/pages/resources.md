@@ -5,6 +5,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## HEC
 We are currently updating our bylaws! You can find more information and how to get involved on the [bylaws page](../bylaws).
 
+Interested in local zoning issues? See this [Zoning 101 presentation](https://docs.google.com/presentation/d/11p3ovHA4XONFmqmV0pFUzNLXLNQs8ayQbJtdT0l0AIk).
+
 ## Local Resources
 A list of [local independent pharmacies](https://sites.google.com/hecphila.org/hec-pharmacies/home)
 
