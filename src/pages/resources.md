@@ -13,7 +13,7 @@ A list of [local independent pharmacies](https://sites.google.com/hecphila.org/h
 ## Broad and Washington
 
 - Broad and Washington [CDR package pdf](../files/Broad_and_wash_cdr.pdf) (Note: large file)
-- [Community Benefits Agreement](../files/Broad_and_Washington_Assoc_to_HEC_11-13-20.pdf) for the Broad and Washington development
+- [Community Benefits Agreement](../files/broad-and-washington-cba.pdf) for the Broad and Washington development
 
 ## Cultural Resources
 
